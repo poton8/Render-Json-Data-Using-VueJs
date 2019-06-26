@@ -1,0 +1,19 @@
+{
+  "name": "render-json-data-using-vuejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "VueJsRenderJSON.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poton8/Render-Json-Data-Using-VueJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poton8/Render-Json-Data-Using-VueJs/issues"
+  },
+  "homepage": "https://github.com/poton8/Render-Json-Data-Using-VueJs#readme"
+}
